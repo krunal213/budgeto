@@ -5,7 +5,6 @@ import 'package:budgeto/presentation/screens/home_screen/add_funds_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:budgeto/presentation/widgets/custom_card.dart';
 import 'package:persistent_bottom_nav_bar/persistent_tab_view.dart';
